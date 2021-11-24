@@ -18,3 +18,29 @@ body {
 
 
 /* Styling */
+
+
+.blue {
+    color: #1665D8;
+}
+
+.sub-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#score-sight {
+    /* position: absolute; */
+    width: 158px;
+    height: 48px;
+    left: calc(50% - 158px/2 - 477px);
+    top: 48px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+/* identical to box height, or 150% */
+
+}
